@@ -2,5 +2,6 @@
 # Program: Hello World
 # Description: Prints a simple message
 
-print ("Hello World")
 print ("This is an awesome class!!!")
+secret_message = "I love Python!"
+print(secret_message)
