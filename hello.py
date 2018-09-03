@@ -3,3 +3,4 @@
 # Description: Prints a simple message
 
 print ("Hello World")
+print ("This is an awesome class!!!")
